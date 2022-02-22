@@ -1,1 +1,2 @@
-water_bottle
+aqua_one_liter_1ltr
+aqua_two_liter_2ltr
