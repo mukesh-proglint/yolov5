@@ -1,1 +1,7 @@
+plant
+water_bottle
 notebook
+award
+duster
+
+
