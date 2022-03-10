@@ -1,2 +1,5 @@
-aqua_one_liter_1ltr
-aqua_two_liter_2ltr
+plant
+water_bottle
+notebook
+award
+duster
