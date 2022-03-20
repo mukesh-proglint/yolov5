@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 plant
 water_bottle
 notebook
 award
 duster
+=======
+notebook
+>>>>>>> dcfb37019b546ea4da6c72ff5c137aaba30bf302

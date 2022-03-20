@@ -3,5 +3,10 @@ train: train/images  # train images (relative to 'path') 128 images
 val: train/images  # val images (relative to 'path') 128 images
 test: # test images (optional)
 
+<<<<<<< HEAD
 nc: 5  # number of classes
 names: ["plant","water_bottle","notebook","award","duster"]  # class names
+=======
+nc: 1  # number of classes
+names: ['notebook']  # class names
+>>>>>>> dcfb37019b546ea4da6c72ff5c137aaba30bf302

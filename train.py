@@ -77,7 +77,7 @@ def train(hyp,  # path/to/hyp.yaml or hyp dictionary
     last, best = w / 'last.pt', w / 'best.pt'
 
     # Hyperparameters
-    if isinstance(hyp, str):
+     if isinstance(hyp, str):
         with open(hyp, errors='ignore') as f:
             hyp = yaml.safe_load(f)  # load hyps dict
     LOGGER.info(colorstr('hyperparameters: ') + ', '.join(f'{k}={v}' for k, v in hyp.items()))
